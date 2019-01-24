@@ -1,2 +1,6 @@
 # Artificial-Intelligence
-Assignments for AI
+Assignments for AI Course
+
+Spring 2018, Junior
+
+Language: Java
